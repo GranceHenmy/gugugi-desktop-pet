@@ -1,0 +1,11 @@
+settings.json
+*.log
+dist/
+_install-test/
+assets/*.png
+assets/prepared/
+assets/prepared-v[1-9]/
+assets/prepared-v10/
+assets/prepared-v11/
+assets/prepared-v12/split-*/
+assets/prepared-v12/*-sheet.png
