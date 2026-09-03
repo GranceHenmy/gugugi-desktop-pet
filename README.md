@@ -29,3 +29,7 @@
 ## 构建安装包
 
 安装 Inno Setup 6 后，编译 `installer/GreenBirdPet.iss`。生成文件位于 `dist` 目录。
+
+---
+
+如有引用，须注明来源，谢谢。
